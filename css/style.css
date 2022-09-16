@@ -3,17 +3,6 @@
   padding: 0;
 }
 
-.navbar .navbar-nav .nav-item .nav-link {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: black;
-}
-.navbar .navbar-nav .nav-item .nav-link:hover {
-  border-bottom: solid;
-  border-color: black;
-}
-
 /*-----GENERAL------------------------------*/
 /*-----INDEX--------------------------------*/
 /*-----ARTICULOS----------------------------*/
