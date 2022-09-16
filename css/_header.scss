@@ -2,18 +2,20 @@
 
     .navbar-nav {
 
-        border-bottom: solid;
-        border-width: 1px;
-
         .nav-item {
 
             .nav-link {
 
                 font-family: 'Montserrat', sans-serif;
                 font-weight: 400;
-                letter-spacing: 1px;
                 text-transform: uppercase;
                 color: black;
+
+                &:hover{
+
+                    border-bottom: solid;
+                    border-color: black;
+                }
             }
         }
     }

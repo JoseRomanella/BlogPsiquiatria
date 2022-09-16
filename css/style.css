@@ -3,37 +3,20 @@
   padding: 0;
 }
 
-.navbar .navbar-nav {
-  border-bottom: solid;
-  border-width: 1px;
-}
 .navbar .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
-  letter-spacing: 1px;
   text-transform: uppercase;
   color: black;
 }
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  border-bottom: solid;
+  border-color: black;
+}
 
+/*-----GENERAL------------------------------*/
 /*-----INDEX--------------------------------*/
 /*-----ARTICULOS----------------------------*/
 /*-----SOBRE MI-----------------------------*/
 /*-----CONTACTO-----------------------------*/
-/*-----FOOTER-------------------------------*/
-footer {
-  border-top: solid;
-  border-width: 1px;
-}
-footer .footer-icons {
-  margin-bottom: 2%;
-}
-footer .footer-icons ion-icon {
-  font-size: 24px;
-}
-footer .footer-text {
-  font-family: "Montserrat", sans-serif;
-  font-size: 70%;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: black;
-}/*# sourceMappingURL=style.css.map */
+/*-----FOOTER-------------------------------*//*# sourceMappingURL=style.css.map */
