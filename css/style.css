@@ -19,4 +19,21 @@
 /*-----ARTICULOS----------------------------*/
 /*-----SOBRE MI-----------------------------*/
 /*-----CONTACTO-----------------------------*/
-/*-----FOOTER-------------------------------*//*# sourceMappingURL=style.css.map */
+/*-----FOOTER-------------------------------*/
+footer {
+  border-top: solid;
+  border-width: 1px;
+}
+footer .footer-icons {
+  margin-bottom: 2%;
+}
+footer .footer-icons ion-icon {
+  font-size: 24px;
+}
+footer .footer-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 70%;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: black;
+}/*# sourceMappingURL=style.css.map */
