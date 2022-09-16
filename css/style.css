@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .navbar-nav {
+  border-bottom: solid;
+  border-width: 1px;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: black;
+}
+
+/*-----INDEX--------------------------------*/
+/*-----ARTICULOS----------------------------*/
+/*-----SOBRE MI-----------------------------*/
+/*-----CONTACTO-----------------------------*/
+/*-----FOOTER-------------------------------*//*# sourceMappingURL=style.css.map */
