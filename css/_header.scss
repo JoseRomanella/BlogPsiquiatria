@@ -1,0 +1,51 @@
+.header {
+    background: url(/assets/imgIndex.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.my-nav {
+
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.navbar {
+
+    .navbar-brand {
+
+        font-family: 'Raleway', sans-serif;
+        font-size: medium;
+        text-transform: uppercase;
+        color: rgb(0, 0, 0);
+        
+    }
+
+    .collapse {
+
+        justify-content: flex-end;
+
+        .navbar-nav {
+
+            .nav-item {
+
+                .nav-link {
+
+                    font-family: 'Raleway', sans-serif;
+                    font-size: medium;
+                    font-weight: thin;
+                    text-transform: uppercase;
+                    color: rgb(0, 0, 0);
+
+                    &:hover{
+
+                        opacity: 0.8;
+                        border-bottom: solid;
+                        border-width: 1px;
+                    }
+                }
+            }
+        }
+    }
+}
