@@ -232,8 +232,8 @@ span:nth-child(18) {
   color: rgba(0, 0, 0, 0.797);
   font-size: 30px;
   margin-top: 5%;
-  -webkit-animation-duration: 3s;
-          animation-duration: 3s;
+  -webkit-animation-duration: 8s;
+          animation-duration: 8s;
   -webkit-animation-name: slidein;
           animation-name: slidein;
 }
@@ -269,8 +269,8 @@ span:nth-child(18) {
   padding-top: 3%;
   text-align: justify;
   color: rgb(0, 0, 0);
-  -webkit-animation-duration: 3s;
-          animation-duration: 3s;
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
   -webkit-animation-name: slidein;
           animation-name: slidein;
 }
