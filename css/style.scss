@@ -175,12 +175,12 @@ span:nth-child(18) {
                 font-weight: 200;
             }
 
-            .card-link{
+            .card-link {
 
                 text-decoration: none;
                 color: rgb(49, 101, 65);
 
-                &:hover{
+                &:hover {
 
                     font-weight: 600;
                     color: rgb(4, 67, 24);
@@ -261,45 +261,55 @@ span:nth-child(18) {
 /*----------------------------------------------------------------------------------------------------------------*/
 /*ARTICULOS*/
 
-.fecha{
+.fecha {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: smaller;
-    font-weight:lighter;
+    font-weight: lighter;
     margin-top: 2%;
 }
 
-.tituloArticulo{
+.tituloArticulo {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.containerArticulo{
+.containerArticulo {
 
     margin-bottom: 5%;
 }
 
-.nombreAutor{
+.nombreAutor {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: large;
     font-weight: 400;
 }
 
-.textoArticulo{
+.textoArticulo {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 200;
     text-align: justify;
 }
 
-.subtituloArticulo{
+.subtituloArticulo {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: x-large;
     font-weight: 400;
 
 }
+
+/*----------------------------------------------------------------------------------------------------------------*/
+/*CONTACTO*/
+
+.headerContact {
+    background: url(../assets/old-man-g9d8cc52fd_1920.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
 
 /*----------------------------------------------------------------------------------------------------------------*/
 /*FOOTER*/

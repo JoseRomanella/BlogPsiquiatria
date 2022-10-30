@@ -319,6 +319,14 @@ span:nth-child(18) {
 }
 
 /*----------------------------------------------------------------------------------------------------------------*/
+/*CONTACTO*/
+.headerContact {
+  background: url(../assets/old-man-g9d8cc52fd_1920.jpg) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+/*----------------------------------------------------------------------------------------------------------------*/
 /*FOOTER*/
 .text-black {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
