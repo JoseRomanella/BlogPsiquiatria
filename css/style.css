@@ -193,6 +193,11 @@ span:nth-child(18) {
     margin-left: 4%;
   }
 }
+@media (max-width: 576px) {
+  .textoIndex {
+    margin-top: 45%;
+  }
+}
 /*----------------------------------------------------------------------------------------------------------------*/
 /*ARTICLES*/
 .cardsArticulos {
