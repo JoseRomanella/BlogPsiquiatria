@@ -203,14 +203,15 @@ span:nth-child(18) {
 .cardsArticulos .card .card-body .card-title {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bolder;
-  font-size: x-large;
+  font-size: large;
+  text-transform: uppercase;
 }
 .cardsArticulos .card .card-body .card-subtitle {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 600;
-  font-size: large;
+  font-weight: 400;
+  font-size: medium;
   color: rgb(0, 0, 0);
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .cardsArticulos .card .card-body .card-text {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -294,6 +295,7 @@ span:nth-child(18) {
 
 .tituloArticulo {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
 }
 
 .containerArticulo {
@@ -314,7 +316,7 @@ span:nth-child(18) {
 
 .subtituloArticulo {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: x-large;
+  font-size: large;
   font-weight: 400;
 }
 
