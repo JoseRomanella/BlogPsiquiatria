@@ -298,6 +298,14 @@ span:nth-child(18) {
   height: 70%;
 }
 
+@media (max-width: 992px) {
+  .imgDisplay {
+    display: none;
+  }
+  .imgDisplay .imgAbout {
+    display: none;
+  }
+}
 /*----------------------------------------------------------------------------------------------------------------*/
 /*ARTICULOS*/
 .fecha {
