@@ -184,6 +184,15 @@ span:nth-child(18) {
     filter: blur(0);
   }
 }
+@media (max-width: 576px) {
+  .navbar-toggler {
+    background-color: transparent;
+    border: none;
+  }
+  .navbar-nav .nav-item {
+    margin-left: 4%;
+  }
+}
 /*----------------------------------------------------------------------------------------------------------------*/
 /*ARTICLES*/
 .cardsArticulos {
