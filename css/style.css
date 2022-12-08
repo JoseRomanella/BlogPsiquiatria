@@ -184,7 +184,7 @@ span:nth-child(18) {
     filter: blur(0);
   }
 }
-@media (max-width: 576px) {
+@media (max-width: 992px) {
   .navbar-toggler {
     background-color: transparent;
     border: none;
