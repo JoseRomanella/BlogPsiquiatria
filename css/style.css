@@ -247,20 +247,30 @@ span:nth-child(18) {
   color: rgba(0, 0, 0, 0.797);
   font-size: 30px;
   margin-top: 5%;
-  /*animation-duration: 8s;
-  animation-name: slidein;
-
-  @keyframes slidein {
-      from {
-          margin-left: 100%;
-          width: 100%;
-      }
-
-      to {
-          margin-left: 0%;
-          width: 100%;
-      }
-  }*/
+  -webkit-animation-duration: 6s;
+          animation-duration: 6s;
+  -webkit-animation-name: slidein;
+          animation-name: slidein;
+}
+@-webkit-keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 100%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 100%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
 
 .text-container {
@@ -274,20 +284,20 @@ span:nth-child(18) {
   padding-top: 3%;
   text-align: justify;
   color: rgb(0, 0, 0);
-  /*animation-duration: 5s;
-  animation-name: slidein;
-
-  @keyframes slidein {
-      from {
-          margin-left: 100%;
-          width: 100%;
-      }
-
-      to {
-          margin-left: 0%;
-          width: 100%;
-      }
-  }*/
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+  -webkit-animation-name: slidein;
+          animation-name: slidein;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 100%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
 
 .imgDisplay {
